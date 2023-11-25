@@ -1,4 +1,4 @@
-# Copy Cat (2-day hackathon!)
+# BBC Sports Homepage Clone
 
 ## Objective:
 
