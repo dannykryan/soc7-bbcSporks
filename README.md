@@ -2,7 +2,7 @@
 
 ## Objective:
 
-Replicated the BBC Sports home page to be BBC Sporks using CSS and HTML, focusing on both low-fidelity and high-fidelity versions. Used AI to create Spork images, and story headers.
+Replicate the BBC Sports home page to be BBC Sporks using CSS and HTML, focusing on both low-fidelity and high-fidelity versions. Used AI to create Spork images, and story headers.
 
 ## Main Tasks:
 
